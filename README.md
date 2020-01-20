@@ -1,4 +1,4 @@
-# My daily reading
+# My daily readings
 
 ### segunda-feira, 20 de janeiro de 2020
 * https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm
