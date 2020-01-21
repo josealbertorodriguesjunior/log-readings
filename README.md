@@ -9,6 +9,7 @@
 * https://github.com/EvanHahn/brainfuck-web-app
 * https://stackshare.io/stackups/activemq-vs-amazon-sqs-vs-rabbitmq
 * https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5
+* https://unix.stackexchange.com/questions/444946/how-can-we-run-a-command-stored-in-a-variable
 
 ### segunda-feira, 20 de janeiro de 2020
 * https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm
