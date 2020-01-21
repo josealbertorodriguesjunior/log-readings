@@ -10,6 +10,7 @@
 * https://stackshare.io/stackups/activemq-vs-amazon-sqs-vs-rabbitmq
 * https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5
 * https://unix.stackexchange.com/questions/444946/how-can-we-run-a-command-stored-in-a-variable
+* https://stackoverflow.com/questions/21192420/how-do-i-use-variables-in-single-quoted-strings
 
 
 ### segunda-feira, 20 de janeiro de 2020
