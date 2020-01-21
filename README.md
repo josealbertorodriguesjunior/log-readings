@@ -11,8 +11,7 @@
 * https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5
 * https://unix.stackexchange.com/questions/444946/how-can-we-run-a-command-stored-in-a-variable
 * https://stackoverflow.com/questions/21192420/how-do-i-use-variables-in-single-quoted-strings
-
-
+* https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
 ### segunda-feira, 20 de janeiro de 2020
 * https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm
