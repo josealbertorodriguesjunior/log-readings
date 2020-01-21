@@ -11,6 +11,7 @@
 * https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5
 * https://unix.stackexchange.com/questions/444946/how-can-we-run-a-command-stored-in-a-variable
 
+
 ### segunda-feira, 20 de janeiro de 2020
 * https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm
 * https://medium.com/trainingcenter/apache-kafka-codifica%C3%A7%C3%A3o-na-pratica-9c6a4142a08f
