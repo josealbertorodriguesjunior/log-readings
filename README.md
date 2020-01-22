@@ -3,6 +3,7 @@
 ### quarta-feira, 22 de janeiro de 2020
 * https://www.baeldung.com/spring-mvc-handlerinterceptor
 * https://spring.io/guides/gs/messaging-rabbitmq/
+* https://sou.gohorseprocess.com.br/extreme-go-horse-xgh/
 
 ### terça-feira, 21 de janeiro de 2020
 * https://www.baeldung.com/spring-rest-http-headers
