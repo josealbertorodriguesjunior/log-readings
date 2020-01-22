@@ -1,5 +1,8 @@
 # My daily readings
 
+### quarta-feira, 22 de janeiro de 2020
+* https://www.baeldung.com/spring-mvc-handlerinterceptor
+
 ### terça-feira, 21 de janeiro de 2020
 * https://www.baeldung.com/spring-rest-http-headers
 * https://www.baeldung.com/spring-boot-json
