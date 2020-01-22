@@ -5,6 +5,7 @@
 * https://spring.io/guides/gs/messaging-rabbitmq/
 * https://sou.gohorseprocess.com.br/extreme-go-horse-xgh/
 * https://www.tutorialspoint.com/Java-program-to-convert-the-contents-of-a-Map-to-list
+* https://www.baeldung.com/java-stream-filter-lambda
 
 ### terça-feira, 21 de janeiro de 2020
 * https://www.baeldung.com/spring-rest-http-headers
