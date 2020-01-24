@@ -1,6 +1,9 @@
 # My daily readings
 
 ### quarta-feira, 22 de janeiro de 2020
+* dia de vadiagem, esqueci de fazer meus logs :p
+
+### quarta-feira, 22 de janeiro de 2020
 * https://www.baeldung.com/spring-mvc-handlerinterceptor
 * https://spring.io/guides/gs/messaging-rabbitmq/
 * https://sou.gohorseprocess.com.br/extreme-go-horse-xgh/
