@@ -1,6 +1,10 @@
 # My daily readings
 
-### quarta-feira, 23 de janeiro de 2020
+### sexta-feira, 24 de janeiro de 2020
+* https://github.com/micahhausler/rabbitmq-compose
+* https://www.rabbitmq.com/tutorials/tutorial-one-python.html
+
+### quinta-feira, 23 de janeiro de 2020
 * dia de vadiagem, esqueci de fazer meus logs :p
 
 ### quarta-feira, 22 de janeiro de 2020
