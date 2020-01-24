@@ -4,6 +4,7 @@
 * https://github.com/micahhausler/rabbitmq-compose
 * https://www.rabbitmq.com/tutorials/tutorial-one-python.html
 * https://gist.github.com/jemc/4b89d6bbf3c7a07bee83
+* https://www.cloudamqp.com/blog/2015-05-21-part2-3-rabbitmq-for-beginners_example-and-sample-code-python.html
 
 ### quinta-feira, 23 de janeiro de 2020
 * dia de vadiagem, esqueci de fazer meus logs :p
