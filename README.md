@@ -1,6 +1,6 @@
 # My daily readings
 
-### quarta-feira, 22 de janeiro de 2020
+### quarta-feira, 23 de janeiro de 2020
 * dia de vadiagem, esqueci de fazer meus logs :p
 
 ### quarta-feira, 22 de janeiro de 2020
