@@ -3,6 +3,7 @@
 ### sexta-feira, 24 de janeiro de 2020
 * https://github.com/micahhausler/rabbitmq-compose
 * https://www.rabbitmq.com/tutorials/tutorial-one-python.html
+* https://gist.github.com/jemc/4b89d6bbf3c7a07bee83
 
 ### quinta-feira, 23 de janeiro de 2020
 * dia de vadiagem, esqueci de fazer meus logs :p
