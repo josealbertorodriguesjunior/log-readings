@@ -2,6 +2,7 @@
 
 ### domingo, 26 de janeiro de 2020
 * https://github.com/jwtk/jjwt
+* https://github.com/murraco/spring-boot-jwt
 
 ### sexta-feira, 24 de janeiro de 2020
 * https://github.com/micahhausler/rabbitmq-compose
