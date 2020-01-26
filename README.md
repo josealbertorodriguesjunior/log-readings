@@ -1,5 +1,8 @@
 # My daily readings
 
+### domingo, 26 de janeiro de 2020
+* https://github.com/jwtk/jjwt
+
 ### sexta-feira, 24 de janeiro de 2020
 * https://github.com/micahhausler/rabbitmq-compose
 * https://www.rabbitmq.com/tutorials/tutorial-one-python.html
