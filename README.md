@@ -1,5 +1,8 @@
 # My daily readings
 
+### segunda-feira, 27 de janeiro de 2020
+* https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
+
 ### domingo, 26 de janeiro de 2020
 * https://github.com/jwtk/jjwt
 * https://github.com/murraco/spring-boot-jwt
