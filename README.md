@@ -1,5 +1,8 @@
 # My daily readings
 
+### terça-feira, 28 de janeiro de 2020
+* https://github.com/russellballestrini/nested-lookup/
+
 ### segunda-feira, 27 de janeiro de 2020
 * https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
 
