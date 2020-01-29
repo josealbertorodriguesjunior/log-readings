@@ -1,5 +1,8 @@
 # My daily readings
 
+### quarta-feira, 29 de janeiro de 2020
+* https://www.baeldung.com/spring-webflux
+
 ### terça-feira, 28 de janeiro de 2020
 * https://github.com/russellballestrini/nested-lookup/
 
