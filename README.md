@@ -1,5 +1,8 @@
 # My daily readings
 
+### quinta-feira, 30 de janeiro de 2020
+* https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
+
 ### quarta-feira, 29 de janeiro de 2020
 * https://www.baeldung.com/spring-webflux
 
