@@ -1,5 +1,10 @@
 # My daily readings
 
+### segunda-feira, 03 de fevereiro de 2020
+* https://developers.redhat.com/blog/2019/11/18/how-quarkus-brings-imperative-and-reactive-programming-together/
+* https://stackoverflow.com/questions/8845186/what-exactly-is-apache-camel
+* https://aws.amazon.com/pt/kinesis/data-streams/getting-started/
+
 ### quinta-feira, 30 de janeiro de 2020
 * https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
 
