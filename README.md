@@ -1,5 +1,8 @@
 # My daily readings
 
+### terça-feira, 04 de fevereiro de 2020
+* https://www.confluent.io/blog/apache-kafka-spring-boot-application/
+
 ### segunda-feira, 03 de fevereiro de 2020
 * https://developers.redhat.com/blog/2019/11/18/how-quarkus-brings-imperative-and-reactive-programming-together/
 * https://stackoverflow.com/questions/8845186/what-exactly-is-apache-camel
