@@ -1,5 +1,8 @@
 # My daily readings
 
+### sexta-feira, 07 de fevereiro de 2020
+* https://medium.com/@rafaelacioly/construindo-uma-api-restful-com-go-d6007e4faff6
+
 ### terça-feira, 04 de fevereiro de 2020
 * https://www.confluent.io/blog/apache-kafka-spring-boot-application/
 
