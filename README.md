@@ -1,5 +1,8 @@
 # My daily readings
 
+### quarta-feira, 19 de fevereiro de 2020
+* https://medium.com/trainingcenter/criando-api-crud-com-clojure-ba82edc1ad59
+
 ### sexta-feira, 07 de fevereiro de 2020
 * https://medium.com/@rafaelacioly/construindo-uma-api-restful-com-go-d6007e4faff6
 
