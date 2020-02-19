@@ -2,6 +2,7 @@
 
 ### quarta-feira, 19 de fevereiro de 2020
 * https://medium.com/trainingcenter/criando-api-crud-com-clojure-ba82edc1ad59
+* https://hackernoon.com/getting-started-with-clojure-on-mac-os-ebcc4cd5f642
 
 ### sexta-feira, 07 de fevereiro de 2020
 * https://medium.com/@rafaelacioly/construindo-uma-api-restful-com-go-d6007e4faff6
